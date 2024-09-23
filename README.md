@@ -1,4 +1,4 @@
-# Resumos do Git e GitHub
+# Resumos do Git e GitHub V2
 
 Repositório para armazenar resumos sobre Git e GitHub
 
